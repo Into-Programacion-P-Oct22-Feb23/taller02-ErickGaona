@@ -17,7 +17,9 @@ public class Ejemplo_basico_netbeans {
     //Manejado desde GitHub
     //Versionado a través de Git
     //Creado por <ubicar su usuario de github>
-        System.out.println("Actividad en clase");
+        System.out.println("Ejemplo básico de Java\n" +
+"Versionado a través de Git\n" +
+"Manejado desde GitHub");
         
     }
     
